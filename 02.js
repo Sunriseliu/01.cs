@@ -1,0 +1,1 @@
+var spiderman = "纽约好邻居";
